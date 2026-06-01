@@ -2,7 +2,7 @@ package md.vladdubceac.learning.lambda;
 
 public class RunnableExample {
     public static void main(String[] args) {
-        // Runnable Traditional
+
         Runnable runnable = new Runnable() {
             @Override
             public void run() {
